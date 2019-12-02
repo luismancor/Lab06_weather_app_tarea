@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab06_Widget_Tarea</string>
+    <string name="appwidget_text">Tarea</string>
+    <string name="add_widget">Add widget</string>
+</resources>
